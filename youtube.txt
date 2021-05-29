@@ -1,4 +1,4 @@
-||r8---sn-8pxuuxa-nbozy.googlevideo.com^$important
+||r8---sn-8pxuuxa-nbozy.googlevideo.com ^$important
 ||r1---sn-8pxuuxa-nbozl.googlevideo.com^$important
 ||r1---sn-8pxuuxa-nbole.googlevideo.com^$important
 ||r6---sn-8pxuuxa-nbozr.googlevideo.com^$important
@@ -9,3 +9,23 @@
 ||r7---sn-8pxuuxa-nbol7.googlevideo.com^$important
 ||r6---sn-8pxuuxa-nbozz.googlevideo.com^$important
 ||r1---sn-8pxuuxa-nbozy.googlevideo.com^$important
+||r6---sn-8pxuuxa-nboek.googlevideo.com^$important
+||r1---sn-8pxuuxa-nboes.googlevideo.com^$important
+||r1---sn-8pxuuxa-nbozr.googlevideo.com^$important
+||r6---sn-8pxuuxa-nboee.googlevideo.com^$important
+||r6---sn-8pxuuxa-nbozy.googlevideo.com^$important
+||r4---sn-8pxuuxa-nboer.googlevideo.com^$important
+||r1---sn-8pxuuxa-nbo6s.googlevideo.com^$important
+||r5---sn-8pxuuxa-nbozl.googlevideo.com^$important
+||r2---sn-8pxuuxa-nbozr.googlevideo.com^$important
+||r6---sn-8pxuuxa-nbozs.googlevideo.com^$important
+||r2---sn-8pxuuxa-nbozs.googlevideo.com^$important
+||r3---sn-8pxuuxa-nbozl.googlevideo.com^$important
+||r7---sn-8pxuuxa-nbozl.googlevideo.com^$important
+||r7---sn-8pxuuxa-nbozz.googlevideo.com^$important
+||r7---sn-8pxuuxa-nbozy.googlevideo.com^$important
+||r3---sn-8pxuuxa-nbozr.googlevideo.com^$important
+||r2---sn-8pxuuxa-nboes.googlevideo.com^$important
+||r3---sn-8pxuuxa-nbo6.googlevideo.com^$important
+||r1---sn-8pxuuxa-nbozz.googlevideo.com^$important
+||r2---sn-npoe7nl6.googlevideo.com^$important
